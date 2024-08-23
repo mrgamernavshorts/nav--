@@ -7,7 +7,7 @@ they should be written as:
 
 write:
 
-createvar:\n
+createvar:
 
 i will try to add more to it,but still tell me if you liked it.
 👍
